@@ -1,0 +1,24 @@
+Wi-Fi networks and Bluetooth connections can be vulnerable points of access for data or identity theft.  
+
+Wireless networks allow Wi-Fi enabled devices to connect to the network by way of a preset network identifier,(SSID). can be configured so that it doesn’t broadcast the SSID, this is not a adequate security for a wireless network.
+
+Preset SSID and default password details should be changed to prevent intruders from entering your home wireless network. Therefore, encrypt wireless communication by enabling wireless security and the WPA2 encryption feature on wireless router. Note, even with WPA2 encryption enabled, a wireless network can still be vulnerable.
+
+Encryption is the best way to keep personal data safe. It works by scrambling the data in a message so that only the intended recipients can read it. 
+The two most common types of encryption are Wired Equivalent Privacy (WEP), and Wi-Fi Protected Access (WPA). The most common and  strongest one is WPA2.
+
+The Bluetooth wireless protocol can also be exploited by hackers to eavesdrop, establish remote access controls, distribute malware and drain batteries.
+Therefore, it is highly advisable to keep Bluetooth turned off when you aren’t using it.
+
+In order to prevent unauthorized access to your devices, you should consider using passphrases instead of passwords. It’s longer than a typical password, less vulnerable to dictionary or brute force attacks.
+
+There are many ways to minimize the risk: 
+Check the validity of available Wi-Fi hotspots. 
+Make sure all websites you exchange information with have "https" at the beginning of the web address. So, your transmitted data will be encrypted.
+Adjust your device settings so it does not automatically connect to nearby Wi-Fi networks. 
+Consider using a virtual private network(VPN) when using public Wi-Fi hotspots to encrypt all transmissions between your device and the internet. 
+Turn Bluetooth off when not in use. 
+Use Bluetooth in hidden mode rather than discoverable mode.
+Consider using the Media Access Control(MAC), address filter in your wireless router.  
+Turn off your wireless router when it will not be in use.
+Use anti-virus and anti-spyware software on computer and devices that access wireless network. 

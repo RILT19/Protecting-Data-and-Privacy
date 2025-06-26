@@ -1,0 +1,34 @@
+To protect data and safeguard data, you should:
+
+Always read the Terms of Service when registering for a new service and decide whether the service is worth waiving your rights to your data for.
+Select your privacy settings rather than accepting the default.
+Review the service provider’s security policy to understand what they are doing to protect your data.
+Change your passwords periodically, use a complex password and two factor authentication to secure your account.
+
+Two-factor authentication (2FA) refers to a security method used to help protect accounts and systems from unauthorized access by requiring would-be users to provide some kind of extra verification of their identity.
+This process ensures better protection of both a user's personal information, credentials, and other assets, while also improving the security around the resources the user can access.
+
+Encryption is the process of converting information into a form in which unauthorized parties cannot read it. Only a trusted, authorized person with the secret key or password can decrypt the data and access it in its original form.
+
+
+Encryption can only prevent an unauthorized person from viewing or accessing the content. It does not prevent someone from intercepting the data.
+Software programs are used to encrypt files, folders and even entire drives.
+
+Encrypting File System (EFS) is a Windows feature that can encrypt data. It is directly linked to a specific user account and only the user that encrypts the data will be able to access it after it has been encrypted using EFS.
+
+
+Back Up Data:
+Ensuring backup data is up to date and store securely may prevent the loss of irreplaceable data. To back up data properly, you will need an additional storage location for the data and you must copy the data to that location regularly.
+Backups are critical in case of ransomware or data loss.
+
+Examples of additional storage locations: 
+
+Home network- Storing data locally means having total control of it.
+Secondary location- Data copied to a network attached storage device, external hard drive, CDs, DVDs, thumb drive or tapes. 
+The cloud-  Using a cloud storage service is that data is safe in the event of a storage device failure or if you experience an extreme situation such as a fire or theft.
+
+How To Delete Data Permanently?
+Deleting data or get rid of a hard drive are part of precautions to safeguard the data from falling into the wrong hands. To erase data so that it is no longer recoverable, it must be overwritten with ones and zeros multiple times using tools specifically designed to do that.
+NB:
+The only way to be certain that data or files are not recoverable is to physically destroy the hard drive or storage device.
+

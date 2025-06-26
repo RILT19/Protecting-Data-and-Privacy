@@ -1,0 +1,10 @@
+Data maintenance:
+It's means managing, updating, securing and ensuring the accuracy and integrity of data. 
+
+Key Activities in Data Maintenance:
+Keeping vulnerability databases or software threats signatures current.
+Updating antivirus definitions or CVE regular.
+Reviewing and updating who has access to what data.
+Removing access to sensitive folders for users who no longer need it.
+Updating or changing encryption keys periodically.
+Rotating TLS certificates or VPN keys as part of regular data security hygiene.
